@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: Classic Bag Search
+## Notes: Adds retail bag search box to classic
+## Author: Sjaqueblaque-Morgraine
+
+searchbox.xml
+searchbox.lua
