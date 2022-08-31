@@ -1,4 +1,4 @@
-## Interface: 11305
+## Interface: 30400
 ## Title: Classic Bag Search
 ## Notes: Adds retail bag search box to classic
 ## Author: Sjaqueblaque-Morgraine
